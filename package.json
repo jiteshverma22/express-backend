@@ -1,0 +1,29 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "description": "Basic Backend using express.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiteshverma22/express-backend.git"
+  },
+  "keywords": [
+    "backend",
+    "expressjs",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Jitesh Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiteshverma22/express-backend/issues"
+  },
+  "homepage": "https://github.com/jiteshverma22/express-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
